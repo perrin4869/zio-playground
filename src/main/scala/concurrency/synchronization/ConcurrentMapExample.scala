@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.concurrency.synchronization
 
 import zio._
 import zio.concurrent.ConcurrentMap

@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.core.runtime
 
 import zio._
 import zio.Executor

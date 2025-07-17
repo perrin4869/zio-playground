@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.concurrency.primitives
 
 import zio._
 import zio.concurrent._

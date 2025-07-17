@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.core.zio
 
 import zio._
 import java.io.IOException

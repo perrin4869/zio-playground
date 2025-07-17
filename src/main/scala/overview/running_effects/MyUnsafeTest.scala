@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.overview.running_effects
 
 import zio._
 import zio.Console._

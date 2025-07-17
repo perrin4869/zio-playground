@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.concurrency.fibers
 
 import zio._
 import java.util.concurrent.Executors

@@ -1,4 +1,4 @@
-package il.co.dotcore.zio.playground
+package il.co.dotcore.zio.playground.overview.getting_started
 
 import zio._
 import zio.Console._
