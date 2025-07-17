@@ -1,4 +1,4 @@
-package il.co.dotcore.myziotest.concurrency.primitives
+package il.co.dotcore.zio.playground.concurrency.primitives
 
 import zio._
 import java.io.IOException

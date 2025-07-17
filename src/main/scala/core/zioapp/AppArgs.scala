@@ -1,4 +1,4 @@
-package il.co.dotcore.myziotest
+package il.co.dotcore.zio.playground
 
 import zio._
 import zio.Console._

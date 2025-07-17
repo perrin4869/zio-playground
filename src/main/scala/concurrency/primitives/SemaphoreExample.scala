@@ -1,4 +1,4 @@
-package il.co.dotcore.myziotest.concurrency.primitives
+package il.co.dotcore.zio.playground.concurrency.primitives
 
 import java.util.concurrent.TimeUnit
 import zio._
